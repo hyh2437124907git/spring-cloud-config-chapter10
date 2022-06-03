@@ -2,4 +2,4 @@ server:
   port: 3001
 
 version:
-  message: {cipher}435a981a8b399dcada68a03ad59bd18089370b181bf3ba18b03f943d513f3d94
+  message: '{cipher}435a981a8b399dcada68a03ad59bd18089370b181bf3ba18b03f943d513f3d94'
